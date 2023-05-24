@@ -1,0 +1,29 @@
+.search-bar {
+  height: fit-content;
+  border-radius: 5px;
+  position: relative;
+}
+
+.search-bar > input {
+  width: 560px;
+  padding: 10px;
+  margin: 5px 10px;
+  height: 40px;
+  box-shadow: 2px 2px 2px 1px black;
+}
+
+input:focus {
+  outline: 2px solid black;
+}
+
+.navbar-btn {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+}
+
+@media screen and (width: 768px) {
+  .search-bar > input {
+    width: 350px !important;
+  }
+}

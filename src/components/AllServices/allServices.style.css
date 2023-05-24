@@ -1,0 +1,30 @@
+.services-wrapper {
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+  .SelectedImageStyling {
+    width: 260px !important;
+  }
+}
+@media screen and (max-width: 415px) {
+  .SelectedImageStyling {
+    width: 325px !important;
+  }
+}
+@media screen and (max-width: 360px) {
+  .SelectedImageStyling {
+    width: 295px !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  .slick-dots {
+    bottom: -20px;
+    width: 270px;
+  }
+  .SelectedImageStyling {
+    width: 264px !important;
+  }
+}

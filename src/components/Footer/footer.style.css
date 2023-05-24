@@ -1,0 +1,10 @@
+@media screen and (max-width: 426px) {
+  .footer-content-wrapper {
+    font-size: 12px !important;
+  }
+}
+@media screen and (max-width: 376px) {
+  .footer-last-link {
+    display: none !important;
+  }
+}

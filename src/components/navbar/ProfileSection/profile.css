@@ -1,0 +1,32 @@
+.profile {
+  font-size: 20px;
+  color: whitesmoke;
+}
+.dropDown {
+  position: relative;
+}
+
+.dropDown-list {
+  position: absolute;
+  right: 10px;
+  top: 92px;
+}
+.dropDown-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+
+  color: whitesmoke;
+  font-size: 18px;
+  background-color: #00838f;
+}
+.dropDown-list li {
+  border: 2px solid whitesmoke;
+  padding: 10px 20px;
+}
+
+.dropDown-list li:nth-child(1) {
+  width: 110px;
+  text-align: center;
+}

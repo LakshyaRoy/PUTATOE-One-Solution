@@ -1,0 +1,14 @@
+.title-logo {
+  font-family: "Garamond", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  position: relative;
+  color: whitesmoke;
+}
+
+.logo-semi-title {
+  font-size: 12px;
+  position: absolute;
+  right: 2px;
+  top: 24px;
+}
