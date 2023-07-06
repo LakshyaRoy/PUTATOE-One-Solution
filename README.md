@@ -1,3 +1,41 @@
+
+## PUTATOE-One-Solution Website
+PUTATOE-One-Solution's official website, built with React, React-Slick, and Tailwind CSS, utilizes the map method to dynamically display content from a JSON file. Offering innovative solutions across industries.
+
+
+## Tech Stack
+
+The following technologies were used to develop this website:
+
+- React: A JavaScript library for building user interfaces.
+- React-Slick: A carousel component for creating responsive and customizable sliders.
+- Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- JSON: A lightweight data interchange format used for storing and retrieving dynamic content.
+- AOS Animate On Scroll Library
+
+
+
+
+
+## Contributing
+
+
+
+Contributions are welcome. Feel free to submit a pull request or open an issue.
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at my email lakshyaroy848@gmail.com
+## Credits
+This project was created by me.(Lakshya Roy)
+## Images
+
+![screencapture-putatoe-one-solution-netlify-app-2023-07-06-18_08_44](https://github.com/LakshyaRoy/PUTATOE-One-Solution/assets/110491845/557d6e52-9ffe-45af-a27e-5df1170e2cbe)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
